@@ -308,9 +308,9 @@ form {
 .project img,
 .project-image {
   width: 100%;
-  height: auto;        /* keep full image, no crop */
-  object-fit: contain; /* show entire image */
-  max-height: 400px;   /* optional: cap size so it’s not huge */
+  height: auto;
+  object-fit: contain;
+  max-height: 400px; 
   display: block;
 }
 
